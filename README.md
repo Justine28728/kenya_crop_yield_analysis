@@ -1,5 +1,7 @@
 # Kenya Crop Production Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dftsdnyUaFLIJeQf0YUD3BQjP9ZXR4Y4?usp=sharing)
+
 ## Project Overview
 
 This project analyzes agricultural data from different crops grown in Kenya to explore patterns in yield, revenue, and profitability.
@@ -75,6 +77,7 @@ Among the analyzed crops, cassava recorded the highest yield, highlighting diffe
 
 ## correlation matrix
 ![corelation matrix](images/corelation_matrix.png)
-## Author
 
+
+## Author
 Justine Barasa
