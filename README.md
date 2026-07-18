@@ -78,6 +78,16 @@ Among the analyzed crops, cassava recorded the highest yield, highlighting diffe
 ## correlation matrix
 ![corelation matrix](images/corelation_matrix.png)
 
+## Key Insights
+
+#####The analysis revealed several patterns in Kenya's crop production data:
+
+- Cassava recorded the highest yield among the analyzed crops.
+- Crop profitability varies significantly across different crop types.
+- Weather conditions have an impact on production outcomes.
+- Revenue and profit are influenced by multiple agricultural factors.
+- Correlation analysis helped identify relationships between numerical variables.
+
 
 ## Author
 Justine Barasa
