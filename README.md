@@ -55,19 +55,17 @@ Among the analyzed crops, cassava recorded the highest yield, highlighting diffe
 ### Crop Yield Comparison
 
 ![average yield by crop type](images/AVERAGE YIELD BY CROP TYPE.png)
+![average yield by season](images/average yield by season.png)
+![average yield by soil type](images/average yield by soil type.png)
+![planted area vs yield](images/planted area vs yield.png)
 
 ### Profit Analysis
 
-![Profit Analysis](images/profit_by_crop.png)
+![Profit Analysis by irrigation method](images/Average profit by county.png)
+![Profit Analysis by county](images/average profit by irrigation method.png)
 
-### Weather Impact on Production
-
-![Weather Impact](images/weather_impact.png)
-
-### Revenue Distribution
-
-![Revenue Distribution](images/revenue_distribution.png)
-
+## correlation matrix
+![corelation matrix](images/corelation matrix.png)
 ## Author
 
 Justine Barasa
