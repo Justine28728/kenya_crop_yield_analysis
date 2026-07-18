@@ -50,6 +50,24 @@ The project includes:
 
 Among the analyzed crops, cassava recorded the highest yield, highlighting differences in crop performance under varying farming conditions.
 
+## Visual Insights
+
+### Crop Yield Comparison
+
+![average yield by crop type](images/AVERAGE YIELD BY CROP TYPE.png)
+
+### Profit Analysis
+
+![Profit Analysis](images/profit_by_crop.png)
+
+### Weather Impact on Production
+
+![Weather Impact](images/weather_impact.png)
+
+### Revenue Distribution
+
+![Revenue Distribution](images/revenue_distribution.png)
+
 ## Author
 
 Justine Barasa
